@@ -20,7 +20,8 @@
 | [cmus-airpods][16] | daemon to handle pausing playback of cmus when working with airpods
 | [where][17]        | get where you are
 | [hero][18]         | create symlinks outside of your dotfiles repo
-
+| [binding][19]      | a automatic tagging system for [notmuch](https://notmuchmail.org) mail
+| [sli][20]          | command line presentation tool
 
 
 [1]: https://github.com/samdmarshall/rune
@@ -41,3 +42,5 @@
 [16]: https://github.com/samdmarshall/cmus-airpods
 [17]: https://github.com/samdmarshall/where
 [18]: https://github.com/samdmarshall/hero
+[19]: https://github.com/samdmarshall/binding
+[20]: https://github.com/samdmarshall/sli
