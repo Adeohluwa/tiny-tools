@@ -19,7 +19,7 @@
 | [cmd-parse][15]    | sending the contents of commands issued in a shell to influxdb
 | [cmus-airpods][16] | daemon to handle pausing playback of cmus when working with airpods
 | [where][17]        | get where you are
-
+| [hero][18]         | create symlinks outside of your dotfiles repo
 
 
 
@@ -40,3 +40,4 @@
 [15]: https://github.com/samdmarshall/cmd-parse
 [16]: https://github.com/samdmarshall/cmus-airpods
 [17]: https://github.com/samdmarshall/where
+[18]: https://github.com/samdmarshall/hero
