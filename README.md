@@ -22,6 +22,9 @@
 | [hero][18]         | create symlinks outside of your dotfiles repo
 | [binding][19]      | a automatic tagging system for [notmuch](https://notmuchmail.org) mail
 | [sli][20]          | command line presentation tool
+| [coven][21]        | tool that runs many commands in parallel to provide a textual status bar string
+| [tome][22]         | bookmark management and storage system
+
 
 
 [1]: https://github.com/samdmarshall/rune
@@ -44,3 +47,5 @@
 [18]: https://github.com/samdmarshall/hero
 [19]: https://github.com/samdmarshall/binding
 [20]: https://github.com/samdmarshall/sli
+[21]: https://github.com/samdmarshall/coven
+[22]: https://github.com/samdmarshall/tome
